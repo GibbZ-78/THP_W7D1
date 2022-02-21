@@ -1,24 +1,16 @@
-# README
+# THP W7D1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Active Mailer & Co
 
-Things you may want to cover:
+* Using mailer objects (equivalent to controller when dealing with mails... So unexpected :smile:)
 
-* Ruby version
+* Setting up and using the 'open letter' gem to simulate mail sending through display in your browser (does not work on X overs WSL, though)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Implementing a full mail sending loop via the sendgrid, free SMTP service.
 
 * ...
+
+Enjoy, _wanderer_ :wink: !
+
+## Credits
+&copy; 2022 - Jean-Baptiste VIDAL ([Github repo](https://github.com/GibbZ-78))
